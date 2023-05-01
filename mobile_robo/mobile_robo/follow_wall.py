@@ -4,6 +4,8 @@ from sensor_msgs.msg import LaserScan
 from geometry_msgs.msg import Twist
 import time
 
+## To follow wall : 
+
 class follow_wall_bot(Node):
     def __init__(self):
         super().__init__('Go_to_position_node') ## name of the node
