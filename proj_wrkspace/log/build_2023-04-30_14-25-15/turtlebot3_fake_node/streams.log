@@ -1,0 +1,78 @@
+[0.018s] Invoking command in '/home/shiva/Documents/proj_wrkspace/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/home/shiva/Documents/ros2_wrk_spc/install/rover:/home/shiva/Documents/ros2_wrk_spc/install/my_robo_controller:/home/shiva/Documents/ros2_wrk_spc/install/my_practise_robo:/home/shiva/Documents/ros2_wrk_spc/install/mobile_robo:/opt/ros/humble /usr/bin/cmake /home/shiva/Documents/proj_wrkspace/src/turtlebot3_fake_node -DCMAKE_INSTALL_PREFIX=/home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node
+[0.133s] -- The C compiler identification is GNU 11.3.0
+[0.221s] -- The CXX compiler identification is GNU 11.3.0
+[0.230s] -- Detecting C compiler ABI info
+[0.290s] -- Detecting C compiler ABI info - done
+[0.297s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.297s] -- Detecting C compile features
+[0.298s] -- Detecting C compile features - done
+[0.301s] -- Detecting CXX compiler ABI info
+[0.377s] -- Detecting CXX compiler ABI info - done
+[0.387s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.387s] -- Detecting CXX compile features
+[0.387s] -- Detecting CXX compile features - done
+[0.396s] -- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.594s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[0.704s] -- Found geometry_msgs: 4.2.3 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.764s] -- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.771s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.782s] -- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.806s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.833s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.976s] -- Found nav_msgs: 4.2.3 (/opt/ros/humble/share/nav_msgs/cmake)
+[1.090s] -- Found rclcpp: 16.0.3 (/opt/ros/humble/share/rclcpp/cmake)
+[1.171s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.176s] -- Found rmw_fastrtps_cpp: 6.2.2 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.291s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.328s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.378s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.391s] -- Looking for pthread.h
+[1.451s] -- Looking for pthread.h - found
+[1.451s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.515s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.516s] -- Found Threads: TRUE  
+[1.681s] -- Found sensor_msgs: 4.2.3 (/opt/ros/humble/share/sensor_msgs/cmake)
+[1.793s] -- Found tf2: 0.25.2 (/opt/ros/humble/share/tf2/cmake)
+[1.810s] -- Found tf2_msgs: 0.25.2 (/opt/ros/humble/share/tf2_msgs/cmake)
+[1.995s] -- Found turtlebot3_msgs: 2.2.3 (/opt/ros/humble/share/turtlebot3_msgs/cmake)
+[2.165s] -- Configuring done
+[2.179s] -- Generating done
+[2.181s] -- Build files have been written to: /home/shiva/Documents/proj_wrkspace/build/turtlebot3_fake_node
+[2.195s] Invoked command in '/home/shiva/Documents/proj_wrkspace/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/home/shiva/Documents/ros2_wrk_spc/install/rover:/home/shiva/Documents/ros2_wrk_spc/install/my_robo_controller:/home/shiva/Documents/ros2_wrk_spc/install/my_practise_robo:/home/shiva/Documents/ros2_wrk_spc/install/mobile_robo:/opt/ros/humble /usr/bin/cmake /home/shiva/Documents/proj_wrkspace/src/turtlebot3_fake_node -DCMAKE_INSTALL_PREFIX=/home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node
+[2.196s] Invoking command in '/home/shiva/Documents/proj_wrkspace/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/home/shiva/Documents/ros2_wrk_spc/install/rover:/home/shiva/Documents/ros2_wrk_spc/install/my_robo_controller:/home/shiva/Documents/ros2_wrk_spc/install/my_practise_robo:/home/shiva/Documents/ros2_wrk_spc/install/mobile_robo:/opt/ros/humble /usr/bin/cmake --build /home/shiva/Documents/proj_wrkspace/build/turtlebot3_fake_node -- -j8 -l8
+[2.240s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot3_fake_node.dir/src/turtlebot3_fake_node.cpp.o[0m
+[91.615s] [100%] [32m[1mLinking CXX executable turtlebot3_fake_node[0m
+[92.749s] [100%] Built target turtlebot3_fake_node
+[92.768s] Invoked command in '/home/shiva/Documents/proj_wrkspace/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/home/shiva/Documents/ros2_wrk_spc/install/rover:/home/shiva/Documents/ros2_wrk_spc/install/my_robo_controller:/home/shiva/Documents/ros2_wrk_spc/install/my_practise_robo:/home/shiva/Documents/ros2_wrk_spc/install/mobile_robo:/opt/ros/humble /usr/bin/cmake --build /home/shiva/Documents/proj_wrkspace/build/turtlebot3_fake_node -- -j8 -l8
+[92.813s] Invoking command in '/home/shiva/Documents/proj_wrkspace/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/home/shiva/Documents/ros2_wrk_spc/install/rover:/home/shiva/Documents/ros2_wrk_spc/install/my_robo_controller:/home/shiva/Documents/ros2_wrk_spc/install/my_practise_robo:/home/shiva/Documents/ros2_wrk_spc/install/mobile_robo:/opt/ros/humble /usr/bin/cmake --install /home/shiva/Documents/proj_wrkspace/build/turtlebot3_fake_node
+[92.824s] -- Install configuration: ""
+[92.825s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node
+[92.831s] -- Set runtime path of "/home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node" to ""
+[92.832s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch
+[92.832s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/turtlebot3_fake_node.launch.py
+[92.832s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/rviz2.launch.py
+[92.833s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param
+[92.833s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle.yaml
+[92.833s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/burger.yaml
+[92.833s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle_pi.yaml
+[92.834s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/include/
+[92.834s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/include//turtlebot3_fake_node
+[92.834s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/include//turtlebot3_fake_node/turtlebot3_fake_node.hpp
+[92.835s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_fake_node
+[92.835s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_fake_node
+[92.837s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.sh
+[92.837s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.dsv
+[92.838s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.sh
+[92.838s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.dsv
+[92.838s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.bash
+[92.839s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.sh
+[92.839s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.zsh
+[92.840s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.dsv
+[92.840s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.dsv
+[92.840s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/ament_index/resource_index/packages/turtlebot3_fake_node
+[92.841s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[92.841s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_dependencies-extras.cmake
+[92.841s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig.cmake
+[92.842s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig-version.cmake
+[92.842s] -- Installing: /home/shiva/Documents/proj_wrkspace/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.xml
+[92.846s] Invoked command in '/home/shiva/Documents/proj_wrkspace/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/home/shiva/Documents/ros2_wrk_spc/install/rover:/home/shiva/Documents/ros2_wrk_spc/install/my_robo_controller:/home/shiva/Documents/ros2_wrk_spc/install/my_practise_robo:/home/shiva/Documents/ros2_wrk_spc/install/mobile_robo:/opt/ros/humble /usr/bin/cmake --install /home/shiva/Documents/proj_wrkspace/build/turtlebot3_fake_node
