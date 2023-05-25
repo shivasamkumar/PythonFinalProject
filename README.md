@@ -34,5 +34,7 @@
 
 ![proj_image](https://github.com/shivasamkumar/PythonFinalProject/assets/83110296/6a17d736-8ff0-4ae2-aaf9-170d60bec624)
                                Fig 1.3 Slam algorithm and waypoint Follower in Gazebo and Rviz 
-
+                               
+ ![gazebo environment](https://github.com/shivasamkumar/PythonFinalProject/assets/83110296/a3e29448-23ee-4577-830d-786e5ffd2c0b)
+Fig 1.4 Gazebo virtual environment
 
