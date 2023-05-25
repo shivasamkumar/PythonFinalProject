@@ -10,6 +10,7 @@
     • Note: You have to use the cyclone DDS processor 
 
 **Wall Follower and obstacle avoidance :**
+
     • Clone the repo into your ros2 workspace 
     • Use colcon build select-packages -mobile_robo
     • Then launch the launch file using "ros2 launch mobile_robo mobile_robo_launch.py"
@@ -23,7 +24,13 @@
     • Rviz 
     • Visual studio code 
     • Cyclone DDS
+    
 ![proj_image](https://github.com/shivasamkumar/PythonFinalProject/assets/83110296/6a17d736-8ff0-4ae2-aaf9-170d60bec624)
+Fig 1.1  Wall Following and Obstacle avoidance 
 
+![Screenshot from 2023-04-30 22-36-25](https://github.com/shivasamkumar/PythonFinalProject/assets/83110296/c77ad981-579f-4081-8c3e-2028049b3e91)
+Fig 1.2  Map in Rviz  
 
 ![image](https://github.com/shivasamkumar/PythonFinalProject/assets/83110296/65ce038a-d478-40d5-b69d-ff1cf8e82567)
+Fig 1.3 Slam algorithm and waypoint Follower in Gazebo and Rviz 
+
